@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "deepset/roberta-base-squad2"
+		}
+	],
+	"settings": {}
+}
